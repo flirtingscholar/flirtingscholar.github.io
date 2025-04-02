@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://flirtingscholar.github.io/caa/sitemap_index.txt.gz
